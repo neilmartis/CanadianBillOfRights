@@ -1,7 +1,7 @@
 
 #Canadian Bill of Rights
 
-  #S.C. 1960, c. 44
+ S.C. 1960, c. 44
 
  Assented to 1960-08-10
 
